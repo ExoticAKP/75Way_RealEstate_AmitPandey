@@ -1,0 +1,215 @@
+.root {
+  position: relative;
+  width: 1440px;
+  height: 772px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #e4e5df;
+  overflow: hidden;
+}
+.frame457 {
+  position: absolute;
+  left: 72px;
+  top: 220px;
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.frame453 {
+  position: relative;
+  width: 419px;
+  height: 240px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.lowEnergyCosts {
+  color: #08110c;
+  font-size: 22px;
+  font-weight: bold;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 32px;
+  top: 46px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.oneOfTheMostSignificantBenefit {
+  color: #313131;
+  font-size: 14px;
+  line-height: 26px;
+  font-weight: 500;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 32px;
+  top: 90px;
+  width: 355px;
+  height: min-content;
+  flex-direction: column;
+}
+.frame456 {
+  position: relative;
+  width: 419px;
+  height: 240px;
+  flex-direction: column;
+  background-image:/* webpackIgnore: true */ url('/assets/frame456.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  box-shadow: inset 0px 1px 0px #777;
+}
+.frame458 {
+  position: absolute;
+  left: 510px;
+  top: 220px;
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.frame4532 {
+  position: relative;
+  width: 419px;
+  height: 240px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.smallerCarbonFootprint {
+  color: #08110c;
+  font-size: 22px;
+  font-weight: bold;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 32px;
+  top: 46px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.ourEcoFriendlyHomesAlsoHaveASm {
+  color: #313131;
+  font-size: 14px;
+  line-height: 26px;
+  font-weight: 500;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 32px;
+  top: 90px;
+  width: 355px;
+  height: min-content;
+  flex-direction: column;
+}
+.frame4562 {
+  position: relative;
+  width: 419px;
+  height: 240px;
+  flex-direction: column;
+  background-image:/* webpackIgnore: true */ url('/assets/frame4562.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.frame459 {
+  position: absolute;
+  left: 949px;
+  top: 220px;
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.frame4533 {
+  position: relative;
+  width: 419px;
+  height: 240px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.indoor {
+  color: #08110c;
+  font-size: 22px;
+  font-weight: bold;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 32px;
+  top: 46px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.ourHybridVentilationStrategyIn {
+  color: #313131;
+  font-size: 14px;
+  line-height: 26px;
+  font-weight: 500;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 32px;
+  top: 90px;
+  width: 355px;
+  height: min-content;
+  flex-direction: column;
+}
+.frame4563 {
+  position: relative;
+  width: 419px;
+  height: 240px;
+  flex-direction: column;
+  background-image:/* webpackIgnore: true */ url('/assets/frame4563.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.frame460 {
+  position: absolute;
+  left: 418px;
+  top: 72px;
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+}
+.benefitsOfOwningAnEcoFriendlyH {
+  color: #08110c;
+  font-size: 32px;
+  font-weight: bold;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 604px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.highQualityHomesWithLowCarbonI {
+  color: #141413;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
